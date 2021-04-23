@@ -51,23 +51,23 @@ body {
   color: var(--primary-text-color);
 }
 
-.header .name {
+.nameup {
   position: absolute;
-width: 145px;
-height: 31px;
-left: 215px;
-top: 24px;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 24px;
 
-font-family: Raleway;
-font-style: normal;
-font-weight: bold;
-font-size: 26px;
-line-height: 31px;
-/* identical to box height */
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
 
-letter-spacing: 0.03em;
+  letter-spacing: 0.03em;
 
-color: #2196F3;
+  color: #2196f3;
 }
 /* Hero */
 
@@ -142,6 +142,24 @@ color: #2196F3;
 }
 
 /* Footer */
+.namedown {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 215px;
+  top: 2157px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+}
 
 .footer {
   font-size: 14px;
